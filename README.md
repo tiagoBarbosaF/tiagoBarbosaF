@@ -1,7 +1,7 @@
 ## Olá! Me chamo Tiago Barbosa
  <div>
   <a href="https://github.com/tiagoBarbosaF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=gruvbox&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 <div style="display: inline_block"><br>
