@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=40&theme=algolia"/>
 </div>
+ 
+ 💻 Technologies with wich i work and study
+ ---
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Tiago-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
@@ -17,7 +20,8 @@
 </div>
   
   ##
- 
+📫 Where to find me
+ ---
 <div> 
    <a href="https://www.instagram.com/tiagobfarias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/tiagoBarbosa#1176" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
