@@ -1,8 +1,8 @@
 ## Hi! My name is Tiago Barbosa 🙋‍♂️
  <div>
   <a href="https://github.com/tiagoBarbosaF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=40&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=40&theme=algolia"/>
 </div>
  
  💻 Technologies with wich i work and study 🚀
