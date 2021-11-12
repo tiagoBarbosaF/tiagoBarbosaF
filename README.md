@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/tiagoBarbosaF">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=algolia"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=40&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=8&theme=algolia"/>
 </div>
  
  💻 Technologies with wich i work and study 🚀
@@ -12,7 +12,8 @@
   <img align="center" alt="Tiago-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Tiago-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Tiago-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Tiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Tiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Tiago-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
