@@ -1,3 +1,4 @@
+<img src="img/NET.png">
 ## Hi! My name is Tiago 🙋‍♂️
  <div>
   <a href="https://github.com/tiagoBarbosaF">
