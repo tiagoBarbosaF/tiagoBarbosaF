@@ -1,12 +1,13 @@
-<img src="img/NET.png">
 ## Hi! My name is Tiago 🙋‍♂️
+<img src="img/NET.png"/>
+ </br>
  <div>
   <a href="https://github.com/tiagoBarbosaF">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagoBarbosaF&show_icons=true&theme=algolia"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoBarbosaF&layout=compact&langs_count=8&theme=algolia"/>
 </div>
  
- 💻 Technologies with wich i work and study 🚀
+ <!-- 💻 Technologies with wich i work and study 🚀
  ---
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -16,7 +17,7 @@
   <img align="center" alt="Tiago-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div> -->
  
  </br>
  
