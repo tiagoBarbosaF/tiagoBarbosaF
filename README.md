@@ -1,6 +1,6 @@
 <img src="img/NET.png"/>
  </br>
-<div  style="font-family: 'Courier New', monospace; font-size: 14px; margin: 25px 50px 50px 20px;">
+<div style="font-family: Courier, monospace; font-size: 14px; margin: 25px 50px 50px 20px;">
 <p>Hi!</p>
 <p>My name is Tiago Barbosa, I work as a Backend Developer.</p>
 <p>Creative problem solving, passionate about challenges, sincerity, commitment and competence are some of my personal and professional qualities.</p>
@@ -18,7 +18,7 @@
 ---
 
 <div style="text-align:center">
-<p style="font-size: 32px;font-family: 'Courier New', monospace;">📫 where can you find me:</p>
+<p style="font-size: 32px;font-family: Courier, monospace;">📫 where can you find me:</p>
    <a href="https://www.linkedin.com/in/tiagobarbosaf/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
