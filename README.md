@@ -50,7 +50,3 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagobarbosaf&show_icons=true&locale=en&layout=compact&theme=algolia&langs_count=8" alt="tiagobarbosaf" />
 </p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagobarbosaf&theme=algolia" alt="tiagobarbosaf" />
-</p>
