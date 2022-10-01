@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **tiago@farias.cc**
 
-- 👨‍💻 Site: [Site](https://tiagobarbosaf.github.io/?target=_blank)
+- 👨‍💻 Site: <a href="https://tiagobarbosaf.github.io/" target="blank">tiagobarbosaf.github.io</a>
 <br>
 
 ---
