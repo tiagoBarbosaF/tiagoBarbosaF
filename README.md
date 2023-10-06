@@ -10,7 +10,7 @@
 <tr>
 <td style="width:50%;">
 <h3>Contact:</h3>
-<a href=(mailto:seuemail@example.com) target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="tiago@farias.cc"/></a>
+<a href="mailto:tiago@farias.cc" target="blank"><img align="center" src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="tiago@farias.cc"/></a>
 <a href="https://linkedin.com/in/tiagobarbosaf" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tiagobarbosaf"/></a>
 <a href="https://twitter.com/tiagobarbosafa" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tiagobarbosafa" /></a>
 <h3>Languages and Tools:</h3>
